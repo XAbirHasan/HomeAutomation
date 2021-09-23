@@ -43,7 +43,7 @@ Year: 2019
 <img src="demo/4.png" alt="Base template" width="700"/>
 
 ## App demo
-<img src="demo/5.jpeg" alt="Base template" width="700"/>
+<img src="demo/5.jpeg" alt="Base template" width="300"/>
 
 
 ## Apk file
