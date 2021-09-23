@@ -1,9 +1,8 @@
 # HomeAutomation
  A smart home monitoring system. (2019) For this project we've been selected for 1st runner up.
 
- This project was made for our Computer Networks Laboratory project. Here we try to make a smart home monitoring system which can be controlled through our smart devices.
- We also create a mobile app using MIT App Inventor.<br>
- That can control our smart home. Data is stored and processed in the data server (firebase) and then sent back to the controller again for any changes or taking action. 
+ This project was made for our Computer Networks Laboratory project. Here we try to make a smart home monitoring system which can be controlled through our smart devices.<br>
+ We also create a mobile app using MIT App Inventor. That can control our smart home. Data is stored and processed in the data server (firebase) and then sent back to the controller again for any changes or taking action. 
  
 
  ## Project description
