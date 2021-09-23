@@ -9,7 +9,7 @@
 Name: HomeAutomation <br>
 Programming Language: C/C++ <br>
 Platform: Arduino <br>
-Project No: Update me <br>
+Project No: 15 <br>
 Year: 2019
 
 ## Parts use
