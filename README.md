@@ -41,7 +41,7 @@ Year: 2019
 ## Circuit
 <img src="demo/2.png" alt="Base template" width="700"/>
 
-## Screen shot
+## Demo Screen shot
 <img src="demo/3.png" alt="Base template" width="700"/>
 <img src="demo/4.png" alt="Base template" width="700"/>
 
