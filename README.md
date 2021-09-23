@@ -35,8 +35,10 @@ Year: 2019
 <img src="demo/0.png" alt="Certificate" width="700"/>
 
 
-## Working Mechanism & Circuit
+## Working Mechanism
 <img src="demo/1.png" alt="Base template" width="700"/>
+
+## Circuit
 <img src="demo/2.png" alt="Base template" width="700"/>
 
 ## Screen shot
@@ -48,10 +50,13 @@ Year: 2019
 
 
 ## Apk file
-* **[chemical reaction](app/SmartHome.apk)**
+* **[SmartHome](app/SmartHome.apk)**
 
 ## Authors
 
 * **AbirHasan**
+* **ArafatHossain**
+
+Check out his work [@Arafat Hossain](https://github.com/arafat006)
 
 Check out my other works [@XAbirHasan](https://github.com/XAbirHasan)
