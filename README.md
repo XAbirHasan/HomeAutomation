@@ -24,6 +24,7 @@ Year: 2019
   <li>LED lights</li>
   <li>12V to 3V converter</li>
   <li>5V Power Supply</li>
+  <li>Sonar sensor</li>
   <li>DC Jack</li>
   <li>Wires</li>
 </ul>
