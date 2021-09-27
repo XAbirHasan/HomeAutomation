@@ -30,7 +30,7 @@ Year: 2019
 </ul>
 
 ## Demo Video
-<!-- [![IMAGE ALT TEXT](http://img.youtube.com/vi/dIQwkALpu0g/0.jpg)](http://www.youtube.com/watch?v=dIQwkALpu0g "HomeAutomation || Arduino project") -->
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/NQ8fkM6jicg/0.jpg)](http://www.youtube.com/watch?v=NQ8fkM6jicg "HomeAutomation || Arduino project")
 
 ## Certificate
 <img src="demo/0.png" alt="Certificate" width="700"/>
